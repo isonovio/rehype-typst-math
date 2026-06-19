@@ -7,3 +7,6 @@ This is a simple rehype plugin that renders `div.inline-math` and `div.math-disp
 It requires a preinstalled Typst binary of version at least 0.15 in the local environment.
 
 [The test script](test.mjs) is a simple use case of this plugin.
+
+## ROADMAP
+- [ ] use `typst.ts` to avoid dependency on a Typst binary
